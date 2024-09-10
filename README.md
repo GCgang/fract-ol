@@ -72,4 +72,4 @@ git clone https://github.com/GCgang/fract-ol.git && cd fract-ol && make
 ![julia 프랙탈](./screenshots/julia.png)
 
 `BurningShip`
-![burningship 프랙탈](./screenshots/burningship.png)
+![burningship 프랙탈](./screenshots/Burningship.png)
